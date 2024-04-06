@@ -1,14 +1,15 @@
+.graphs {
+  display: table;
+}
+
 .bar-chart {
   height: auto;
   width: 50%;
-  max-width: 500px;
+  max-width: 550px;
 }
 
 .line-graph {
   height: auto;
   width: 50%;
-  max-width: 500px;
-}
-
-img {
+  max-width: 550px;
 }

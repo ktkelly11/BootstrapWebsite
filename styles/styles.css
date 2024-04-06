@@ -1,3 +1,14 @@
 .bar-chart {
-  height: 150px;
+  height: auto;
+  width: 50%;
+  max-width: 500px;
+}
+
+.line-graph {
+  height: auto;
+  width: 50%;
+  max-width: 500px;
+}
+
+img {
 }

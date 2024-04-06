@@ -1,3 +1,9 @@
 .add-profile-pic {
   height: fit-content;
 }
+
+.placeholder-image {
+  height: auto;
+  width: 60%;
+  max-width: 500px;
+}
